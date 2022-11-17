@@ -44,26 +44,11 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+![Amen Tetteh's GitHub Streak](https://streak-stats.demolab.com?user=amentetteh&theme=tokyonight)
+  
+![Amen Tetteh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amentetteh&show_icons=true&theme=tokyonight)  
 
-<details>
-    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
+![Amen Tetteh's github activity graph](https://activity-graph.herokuapp.com/graph?username=amentetteh&theme=react-dark)
 
-
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=amentetteh)
-
-</details>
-
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![Amen Tetteh's GitHub Streak](https://streak-stats.demolab.com?user=amentetteh&theme=tokyonight)](https://git.io/streak-stats)
-
-</details>
 
 <p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
