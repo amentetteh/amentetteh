@@ -62,7 +62,7 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Waren Gonzaga Github Stats](https://readme-stats.amentetteh.com/api?username=amentetteh&show_icons=true&count_private=true)](https://github.com/amentetteh/github-readme-stats) [![Top Language](https://readme-stats.amentetteh.com/api/top-langs?username=amentetteh&layout=compact)](https://github.com/amentetteh/github-readme-stats)
+[![Amen Tetteh's GitHub Streak](https://streak-stats.demolab.com?user=amentetteh&theme=tokyonight)](https://git.io/streak-stats)
 
 </details>
 
