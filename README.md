@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Amen TETTEH! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="200">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=3C10F7&vCenter=true&multiline=true&width=700&height=200&lines=Computer+Science+Engineer;FullStack+web+developer;Ready+for+adventure)](https://git.io/typing-svg)
 
@@ -45,9 +45,6 @@ const amenTetteh = {
   <p>
       <a href="https://github.com/search?q=user%3Aamentetteh+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aamentetteh+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Aamentetteh+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Aamentetteh+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Aamentetteh+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aamentetteh+language%3Aceylon"><img alt="Ceylon" src="https://custom-icon-badges.demolab.com/badge/Ceylon-E39842.svg?logo=ceylon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aamentetteh+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aamentetteh+language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=color-swatch&logoColor=white"></a>
@@ -97,6 +94,15 @@ const amenTetteh = {
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
   </p>
+  
+  ![](https://img.shields.io/badge/code-HTML-orange)
+![](https://img.shields.io/badge/code-CSS-blue)
+![](https://img.shields.io/badge/code-Javascript-green)
+![](https://img.shields.io/badge/code-Bootsrap-purple)<br>
+![](https://img.shields.io/badge/tool-ESLint-blue)
+![](https://img.shields.io/badge/tool-StyleLint-yellow)
+![](https://img.shields.io/badge/tool-Webhint-green)
+![](https://img.shields.io/badge/editor-VSCode-green)
 
   <h3>🗄️ Databases, Cloud & Hosting</h3>
 
@@ -129,6 +135,8 @@ const amenTetteh = {
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="StyleLint" src="https://img.shields.io/badge/-StyleLint-CB2029?logo=eslint&logoColor=yellow"></a>
+      <a href="#"><img alt="ESLint" src="https://img.shields.io/badge/-ESLint-CB2029?logo=eslint&logoColor=blue"></a>
       <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
