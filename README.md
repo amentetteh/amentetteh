@@ -2,7 +2,7 @@
 <h2> Hi, I'm Amen TETTEH! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Engineer;FullStack+web+developer;Ready+for+adventure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=3C10F7&vCenter=true&multiline=true&width=700&height=200&lines=Computer+Science+Engineer;FullStack+web+developer;Ready+for+adventure)](https://git.io/typing-svg)
 <p><em></em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amen%20TETTEH-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amentetteh/)](https://www.linkedin.com/in/amentetteh/)
@@ -38,30 +38,17 @@ const amenTetteh = {
 
 ```text
 JavaScript   5 hrs 25 mins   ██████████████████████▒░░   89.79 %
-SCSS         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+SCSS         32 mins         ██████████████████████░░░   08.98 %
 JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
 
-<p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
-
-<!-- BLOG-POST-LIST:START -->
-- [Upgrade your React game with TypeScript: Routes](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-routing-4c59)
-- [Upgrade your React game with TypeScript: More on Types](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-more-on-types-5o8)
-- [Show off with Github&#39;s README](https://dev.to/misselliev/show-off-with-github-s-readme-40eh)
-<!-- BLOG-POST-LIST:END -->
 
 <details>
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/warengonzaga/buymeacoffee.js/issues/56) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-2. 🎉 Merged PR [#12](https://github.com/web3phl/directory-api/pull/12) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-3. 🎉 Merged PR [#40](https://github.com/warengonzaga/wifi-passview/pull/40) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
-4. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
-5. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
-<!--END_SECTION:activity-->
+
 
 </details>
 
@@ -75,7 +62,7 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Waren Gonzaga Github Stats](https://readme-stats.amentetteh.com/api?username=amentetteh&show_icons=true&count_private=true)](https://github.com/amentetteh/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=amentetteh&layout=compact)](https://github.com/amentetteh/github-readme-stats)
+[![Waren Gonzaga Github Stats](https://readme-stats.amentetteh.com/api?username=amentetteh&show_icons=true&count_private=true)](https://github.com/amentetteh/github-readme-stats) [![Top Language](https://readme-stats.amentetteh.com/api/top-langs?username=amentetteh&layout=compact)](https://github.com/amentetteh/github-readme-stats)
 
 </details>
 
