@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=3C10F7&vCenter=true&multiline=true&width=700&height=200&lines=Computer+Science+Engineer;FullStack+web+developer;Ready+for+adventure)](https://git.io/typing-svg)
-<p><em></em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amen%20TETTEH-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amentetteh/)](https://www.linkedin.com/in/amentetteh/)
 [![Twitter Badge](https://img.shields.io/badge/-@amentetteh?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amentetteh)](https://twitter.com/miss_elliev)
@@ -32,17 +32,8 @@ const amenTetteh = {
   'my tiny chihuahua dog is ready to woof at the right offer']
 }
 ```
-### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
-<!--START_SECTION:waka-->
 
-```text
-JavaScript   5 hrs 25 mins   ██████████████████████▒░░   89.79 %
-SCSS         32 mins         ██████████████████████░░░   08.98 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-```
-
-<!--END_SECTION:waka-->
 
 
 <details> 
@@ -149,6 +140,9 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 <details> 
 
 <summary><h2>📊 Github Stats and Activity</h2></summary>  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amentetteh&show_icons=true&theme=tokyonight&layout=compact)
+  
   
 ![Amen Tetteh's GitHub Streak](https://streak-stats.demolab.com?user=amentetteh&theme=tokyonight)
   
