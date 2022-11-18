@@ -49,6 +49,7 @@
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Java EE" src="https://img.shields.io/badge/-Java EE-7952B3.svg?logo=java&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="Ext JS" src="https://img.shields.io/badge/-Ext JS-7952B3.svg?logo=extjs&logoColor=white"></a>
       <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
       <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
       <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
@@ -62,19 +63,10 @@
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Slim" src="https://custom-icon-badges.demolab.com/badge/Slim-74a045.svg?logo=slim-php"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   </p>
   
-  ![](https://img.shields.io/badge/code-HTML-orange)
-![](https://img.shields.io/badge/code-CSS-blue)
-![](https://img.shields.io/badge/code-Javascript-green)
-![](https://img.shields.io/badge/code-Bootsrap-purple)<br>
-![](https://img.shields.io/badge/tool-ESLint-blue)
-![](https://img.shields.io/badge/tool-StyleLint-yellow)
-![](https://img.shields.io/badge/tool-Webhint-green)
-![](https://img.shields.io/badge/editor-VSCode-green)
 
   <h3>🗄️ Databases, Cloud & Hosting</h3>
 
@@ -125,6 +117,6 @@
 ![Amen Tetteh's github activity graph](https://activity-graph.herokuapp.com/graph?username=amentetteh&theme=react-dark)
 </details> 
 
-<p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://amentetteh.github.io">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 <img src="https://komarev.com/ghpvc/?username=amentetteh" alt="amentetteh">
