@@ -2,6 +2,7 @@
 <h2> Hi, I'm Amen TETTEH! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="200">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=3C10F7&vCenter=true&multiline=true&width=630&height=200&lines=Computer+Science+Engineer;FullStack+web+developer;Ready+for+adventure)](https://git.io/typing-svg)
 
 [![Twitter Badge](https://img.shields.io/badge/-@amentetteh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amentetteh)](https://twitter.com/amentetteh) [![Mail Badge](https://img.shields.io/badge/-Amen%20TETTEH-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@amentetteh) [![Linkedin Badge](https://img.shields.io/badge/-Amen%20TETTEH-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amentetteh/) [![Mail Badge](https://img.shields.io/badge/-@amentetteh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/amentetteh) [![Mail Badge](https://img.shields.io/badge/-Amen%20TETTEH-0078D4?style=flat&labelColor=0078D4&logo=microsoft-outlook&logoColor=white)](mailto:tkamen@outlook.com)
 
