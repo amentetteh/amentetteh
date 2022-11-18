@@ -2,9 +2,6 @@
 <h2> Hi, I'm Amen TETTEH! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="200">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amen%20TETTEH-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amentetteh/)](https://www.linkedin.com/in/amentetteh/)
-[![Twitter Badge](https://img.shields.io/badge/-@amentetteh?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amentetteh)](https://twitter.com/miss_elliev)
-[![ThePracticalDev Badge](https://img.shields.io/badge/-amentetteh-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/amentetteh)](https://dev.to/amentetteh)
 
 [![Twitter Badge](https://img.shields.io/badge/-@amentetteh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amentetteh)](https://twitter.com/amentetteh) [![Mail Badge](https://img.shields.io/badge/-Amen%20TETTEH-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@amentetteh) [![Linkedin Badge](https://img.shields.io/badge/-Amen%20TETTEH-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amentetteh/) [![Mail Badge](https://img.shields.io/badge/-@amentetteh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/amentetteh) [![Mail Badge](https://img.shields.io/badge/-Amen%20TETTEH-0078D4?style=flat&labelColor=0078D4&logo=microsoft-outlook&logoColor=white)](mailto:tkamen@outlook.com)
 
