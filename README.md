@@ -11,7 +11,6 @@
 - 🔭 Computer Science Engineering Graduated
 - 🌱 Currently learning everything 🤣
 - 👯 Learning to learn
-- 🥅 2023 Goals: Experience a big Tech Company job  
 - ⚡ Have a good live teaching skill
 - 👨‍ Love real-world problem solving
 
